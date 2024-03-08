@@ -2,7 +2,7 @@
 
 ### Dataset Description
 
-The Building Data Genome 2 (BDGE) dataset is a comprehensive collection of energy consumption data from over 1,000 buildings, intended for the analysis and prediction of energy usage in educational facilities. Spanning a two-year period, this dataset provides a detailed view of energy dynamics, supporting efforts to enhance sustainability and efficiency in educational buildings. The raw data can be found in https://www.kaggle.com/c/ashrae-energy-prediction/data
+The Building Data Genome 2 (BDGE) dataset is a comprehensive collection of energy consumption data from over 1,000 buildings, intended for the analysis and prediction of energy usage in educational facilities. Spanning a two-year period, this dataset provides a detailed view of energy dynamics, supporting efforts to enhance sustainability and efficiency in educational buildings. The  data can be found in https://drive.google.com/drive/u/0/folders/1URKQ9QYbfpu5EALuo007US2g1Z0H-Uvj
 
 ### Content
 
